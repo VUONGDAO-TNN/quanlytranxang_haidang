@@ -1,0 +1,9 @@
+<publishData>
+  <publishTarget publishUrl="H:\working\HaiDang\lookupInv\publish\">
+    <file relUrl="bin/lookupInv.dll" publishTime="10/22/2018 15:00:38" />
+    <file relUrl="Index.aspx" publishTime="10/22/2018 15:03:06" />
+    <file relUrl="bin/lookupInv.pdb" publishTime="10/22/2018 15:00:38" />
+    <file relUrl="Web.config" publishTime="10/22/2018 14:42:19" />
+    <file relUrl="previewInv.aspx" publishTime="10/22/2018 14:55:14" />
+  </publishTarget>
+</publishData>

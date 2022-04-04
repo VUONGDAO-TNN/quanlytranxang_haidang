@@ -1,0 +1,31 @@
+﻿<Invoices>
+  <Inv>
+    <key>95b55935-5344-4327-ba5a-f526562da02e</key>
+    <Invoice>
+      <CusCode><![CDATA[6319ACCB-A419-4CC0-8319-03B9BD238929]]></CusCode>
+      <CusName><![CDATA[CÔNG TY CỔ PHẦN MÁY & THIẾT BỊ CÔNG TRÌNH BẮC PHÚ]]></CusName>
+      <Buyer><![CDATA[]]></Buyer>
+      <CusAddress><![CDATA[Số 12, ngách 88 ngõ 467 đường Lĩnh Nam, Tổ 6 - Phường Lĩnh Nam - Quận Hoàng Mai - Hà Nội.]]></CusAddress>
+      <CusTaxCode><![CDATA[0107073265]]></CusTaxCode>
+      <PaymentMethod><![CDATA[TM]]></PaymentMethod>
+      <Extra><![CDATA[95b55935-5344-4327-ba5a-f526562da02e]]></Extra>
+      <CusCom><![CDATA[CÔNG TY CỔ PHẦN MÁY & THIẾT BỊ CÔNG TRÌNH BẮC PHÚ]]></CusCom>
+      <Products>
+        <Product>
+          <ProdName><![CDATA[Xăng E5-Ron92]]></ProdName>
+          <ProdUnit><![CDATA[Lít]]></ProdUnit>
+          <ProdQuantity>4.78</ProdQuantity>
+          <ProdPrice>19000.00</ProdPrice>
+          <Amount>90909.09</Amount>
+        </Product>
+      </Products>
+      <Total>90909.09</Total>
+      <KindOfService>10</KindOfService>
+      <VATRate>10</VATRate>
+      <VATAmount>9090.91</VATAmount>
+      <Amount>100000</Amount>
+      <AmountInWords><![CDATA[Một trăm nghìn đồng]]></AmountInWords>
+      <ArisingDate><![CDATA[30/10/2018]]></ArisingDate>
+    </Invoice>
+  </Inv>
+</Invoices>

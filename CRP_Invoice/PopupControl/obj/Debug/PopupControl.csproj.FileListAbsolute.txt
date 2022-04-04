@@ -1,0 +1,6 @@
+C:\Users\vuongdao\Downloads\simplepopup\SimplePopup\src\PopupControl\bin\Debug\PopupControl.dll
+C:\Users\vuongdao\Downloads\simplepopup\SimplePopup\src\PopupControl\bin\Debug\PopupControl.pdb
+C:\Users\vuongdao\Downloads\simplepopup\SimplePopup\src\PopupControl\obj\Debug\PopupControl.csprojAssemblyReference.cache
+C:\Users\vuongdao\Downloads\simplepopup\SimplePopup\src\PopupControl\obj\Debug\PopupControl.csproj.CoreCompileInputs.cache
+C:\Users\vuongdao\Downloads\simplepopup\SimplePopup\src\PopupControl\obj\Debug\PopupControl.dll
+C:\Users\vuongdao\Downloads\simplepopup\SimplePopup\src\PopupControl\obj\Debug\PopupControl.pdb

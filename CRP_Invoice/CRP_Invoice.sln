@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRP_Invoice", "CRP_Invoice\CRP_Invoice.csproj", "{3FD971B6-92DB-4532-953F-22B0E09E8D6D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CRPInvoice_Setup", "CRPInvoice_Setup\CRPInvoice_Setup.vdproj", "{7010F9D3-3464-4568-AFD4-54A3C795513D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FD971B6-92DB-4532-953F-22B0E09E8D6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD971B6-92DB-4532-953F-22B0E09E8D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD971B6-92DB-4532-953F-22B0E09E8D6D}.Debug|x86.ActiveCfg = Debug|x86
+		{3FD971B6-92DB-4532-953F-22B0E09E8D6D}.Debug|x86.Build.0 = Debug|x86
+		{3FD971B6-92DB-4532-953F-22B0E09E8D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD971B6-92DB-4532-953F-22B0E09E8D6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD971B6-92DB-4532-953F-22B0E09E8D6D}.Release|x86.ActiveCfg = Release|x86
+		{3FD971B6-92DB-4532-953F-22B0E09E8D6D}.Release|x86.Build.0 = Release|x86
+		{7010F9D3-3464-4568-AFD4-54A3C795513D}.Debug|Any CPU.ActiveCfg = Debug
+		{7010F9D3-3464-4568-AFD4-54A3C795513D}.Debug|x86.ActiveCfg = Debug
+		{7010F9D3-3464-4568-AFD4-54A3C795513D}.Release|Any CPU.ActiveCfg = Release
+		{7010F9D3-3464-4568-AFD4-54A3C795513D}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62D83450-90D5-42D1-8141-3F0665793E48}
+	EndGlobalSection
+EndGlobal

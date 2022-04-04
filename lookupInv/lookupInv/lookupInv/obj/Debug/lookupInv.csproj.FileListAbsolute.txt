@@ -1,0 +1,5 @@
+H:\working\HaiDang\lookupInv\lookupInv\lookupInv\bin\lookupInv.dll
+H:\working\HaiDang\lookupInv\lookupInv\lookupInv\bin\lookupInv.pdb
+H:\working\HaiDang\lookupInv\lookupInv\lookupInv\obj\Debug\ResolveAssemblyReference.cache
+H:\working\HaiDang\lookupInv\lookupInv\lookupInv\obj\Debug\lookupInv.dll
+H:\working\HaiDang\lookupInv\lookupInv\lookupInv\obj\Debug\lookupInv.pdb

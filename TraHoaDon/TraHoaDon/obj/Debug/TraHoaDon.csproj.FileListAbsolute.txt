@@ -1,0 +1,13 @@
+D:\Test\TraHoaDon\TraHoaDon\bin\TraHoaDon.dll.config
+D:\Test\TraHoaDon\TraHoaDon\bin\TraHoaDon.dll
+D:\Test\TraHoaDon\TraHoaDon\bin\TraHoaDon.pdb
+D:\Test\TraHoaDon\TraHoaDon\obj\Debug\TraHoaDon.csprojResolveAssemblyReference.cache
+D:\Test\TraHoaDon\TraHoaDon\obj\Debug\TraHoaDon.dll
+D:\Test\TraHoaDon\TraHoaDon\obj\Debug\TraHoaDon.pdb
+H:\working\Projects\Invoices Management\TraHoaDon\TraHoaDon\bin\TraHoaDon.dll.config
+H:\working\Projects\Invoices Management\TraHoaDon\TraHoaDon\bin\TraHoaDon.dll
+H:\working\Projects\Invoices Management\TraHoaDon\TraHoaDon\bin\TraHoaDon.pdb
+H:\working\Projects\Invoices Management\TraHoaDon\TraHoaDon\obj\Debug\TraHoaDon.csprojAssemblyReference.cache
+H:\working\Projects\Invoices Management\TraHoaDon\TraHoaDon\obj\Debug\TraHoaDon.csproj.CoreCompileInputs.cache
+H:\working\Projects\Invoices Management\TraHoaDon\TraHoaDon\obj\Debug\TraHoaDon.dll
+H:\working\Projects\Invoices Management\TraHoaDon\TraHoaDon\obj\Debug\TraHoaDon.pdb
